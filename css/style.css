@@ -1,0 +1,88 @@
+
+.dropdown-menu{
+       border: none;
+       width: 1400px;
+    /* margin: 0;
+    left: 0;
+     */
+}
+body img{
+    width: 100%;
+    
+}
+.dropdown-item{
+    width: 100%;
+    border: none;
+    
+}
+.list-group.item{
+    width: 50%;
+    border: none;
+}
+.myplaystation{
+    list-style-type: none;
+}
+.black-sony{
+    background-color: black;
+}
+.black-sony img{
+    width: 5%;
+}
+.videogame-ground{
+    background-image: url(../img/jumbo-bg.png);
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+    display: flex;
+    align-items: flex-end;
+}
+.videogame-ground-two{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+    display: flex;
+    align-items: flex-end;
+}
+
+.returnal-title{
+    position: relative;
+    min-height: 50px;
+}
+.returnal-title img{
+    width: 50%;
+    position: absolute;
+    left: 0;
+}
+   
+.it-take-two-logo img{
+     width: 50%;
+}
+.cards{
+    
+}
+.cards img{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+.cards-5{
+        border: none;
+}
+.new-exit{
+    background-color:rgb(31, 31, 31) ;
+}
+.ps-plus{
+    background-color:rgb(190, 188, 187) ;
+}
+.mspsplus{
+    padding: 1rem;
+}
+#img-plus{
+    width: 50%;
+   
+}
+  
+    
+
+
