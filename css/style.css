@@ -1,3 +1,13 @@
+body img{
+    width: 100%;
+    
+}
+.ms-btn{
+    border-radius: 20px;
+    padding: .3rem;
+}
+/* HEADER ED EFFECT NAV */
+
 .navbar-nav{
     width: 100%;
 }
@@ -32,22 +42,9 @@
     border: 1px 1px 1px 1px inset rgb(224, 222, 222);
 }
 
-.ps-5-nav{
-    position: relative;
-    
-}
-.ps5-item{
-    position: absolute;
-    left: 0;
-}
-body img{
-    width: 100%;
-    
-}
 .dropdown-item{
     width: 100%;
 }      
-
 .list-group.item{
     width: 50%;
     border: none;
@@ -62,6 +59,8 @@ body img{
 .black-sony img{
     width: 5%;
 }
+
+
 .videogame-ground{
     background-image: url(../img/jumbo-bg.png);
     background-position: center;
@@ -84,7 +83,7 @@ body img{
     min-height: 50px;
 }
 .returnal-title img{
-    width: 50%;
+    width: 100%;
     position: absolute;
     left: 0;
 }
