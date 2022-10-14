@@ -14,6 +14,10 @@ body img{
 }
 .ms-red:hover{
     border: 10px rgb(255, 0, 0);
+}
+.btn-plus{
+    color: blue;
+    background-color: rgb(217, 218, 220);
 }  
 
 /* HEADER ED EFFECT NAV */
@@ -148,8 +152,13 @@ body img{
 }  
 .ps-now{
     background-color:rgb(22, 28, 59) ;
-} 
-
+}
+footer{
+    background-color: rgb(0, 67, 156);
+}
+footer img{
+    width: 50%;
+}
   
     
 
