@@ -71,7 +71,11 @@ body img{
     height: 30px;
 }
 .black-sony img{
-    width: 5%;
+    width: 10%;
+}
+.lens {
+    width: 2%;
+    padding: .2rem;
 }
 
 
